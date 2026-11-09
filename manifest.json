@@ -1,0 +1,15 @@
+{
+  "name": "MCB SocialHub",
+  "short_name": "MCB SocialHub",
+  "description": "MCB SocialHub - Connect, Share, Create. Chat, music, video, live news and EcoCash money in one independent app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
